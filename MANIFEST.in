@@ -1,0 +1,3 @@
+graft babel/static
+graft babel/templates
+global-exclude *.pyc
